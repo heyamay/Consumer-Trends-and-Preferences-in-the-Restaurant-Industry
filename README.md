@@ -4,7 +4,7 @@
 This is my Internship tasks from Cognifyz Technologies which are in 2 levels containing 4-4 tasks each
 🐾 Datasets are provided, Jupyter Notebook is the platform that I used. Python libraries like Pandas, Matplotlib, and Seaborn are used for Data Analysis and Visualization
 
-☘ Level 1
+# ☘ Level 1
 👉 Task 1: Top Cuisines
 Identify the top three most common cuisines.
 Calculate the percentage of restaurants serving each top cuisine.
@@ -19,7 +19,7 @@ Calculate the percentage of restaurants in each price range category.
 Determine the percentage of restaurants offering online delivery.
 Compare average ratings between restaurants with and without online delivery.
 
-☘ Level 2
+# ☘ Level 2
 👉 Task 1: Restaurant Ratings
 Analyze the distribution of ratings and identify the most common rating range.
 Calculate the average number of votes received by restaurants.
