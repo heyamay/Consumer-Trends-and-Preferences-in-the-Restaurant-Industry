@@ -33,8 +33,9 @@ Identify patterns or clusters in restaurant distribution.
 Identify any restaurant chains in the dataset.
 Analyze the ratings and popularity of different chains.
 
-📌 ## Resume content -
-Title: Consumer Trends and Preferences in the Restaurant Industry
+## 📌 Resume content -
+
+<br> Title: Consumer Trends and Preferences in the Restaurant Industry
 
 Description: 
 <br> Conducted comprehensive data analysis on a restaurant dataset, including identifying top cuisines, analyzing city-specific trends, evaluating price range distributions, assessing online delivery impact, examining restaurant ratings, discovering common cuisine combinations, mapping restaurant locations, and analyzing restaurant chains for popularity and ratings. 
