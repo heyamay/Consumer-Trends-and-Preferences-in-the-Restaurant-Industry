@@ -5,7 +5,7 @@ This is my Internship tasks from Cognifyz Technologies which are in 2 levels con
 🐾 Datasets are provided, Jupyter Notebook is the platform that I used. Python libraries like Pandas, Matplotlib, and Seaborn are used for Data Analysis and Visualization
 
 # ☘ Level 1
-👉 Task 1: Top Cuisines
+## 👉 Task 1: Top Cuisines
 Identify the top three most common cuisines.
 Calculate the percentage of restaurants serving each top cuisine.
 👉 Task 2: City Analysis
