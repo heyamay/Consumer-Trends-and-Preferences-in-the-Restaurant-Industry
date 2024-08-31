@@ -33,7 +33,7 @@ Identify patterns or clusters in restaurant distribution.
 Identify any restaurant chains in the dataset.
 Analyze the ratings and popularity of different chains.
 
-Resume content -
+📌 ## Resume content -
 Title: Consumer Trends and Preferences in the Restaurant Industry
 
 Description: 
