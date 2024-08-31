@@ -1,5 +1,5 @@
 # Consumer Trends and Preferences in the Restaurant Industry
-## Internship Tasks from Cognifyz Technologies
+## Data Analysis Internship Tasks from Cognifyz Technologies
 
 This is my Internship tasks from Cognifyz Technologies which are in 2 levels containing 4-4 tasks each
 🐾 Datasets are provided, Jupyter Notebook is the platform that I used. Python libraries like Pandas, Matplotlib, and Seaborn are used for Data Analysis and Visualization
