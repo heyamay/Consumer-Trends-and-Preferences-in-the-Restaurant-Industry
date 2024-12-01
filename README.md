@@ -33,6 +33,44 @@ Identify patterns or clusters in restaurant distribution.
 Identify any restaurant chains in the dataset.
 Analyze the ratings and popularity of different chains.
 
+## Analysis Overview
+
+### Level 1 Tasks
+1. **Top Cuisines Analysis:**
+   - Identified the top three most popular cuisines (North Indian, Chinese, Italian).
+   - Visualized the percentage distribution of these cuisines.
+   
+2. **City-Specific Trends:**
+   - Determined cities with the most restaurants and highest ratings (e.g., New Delhi and Agra).
+   
+3. **Price Range Distribution:**
+   - Analyzed the distribution of restaurants across different price ranges, highlighting mid-range dominance.
+   
+4. **Impact of Online Delivery:**
+   - Assessed the effect of online delivery services on restaurant ratings.
+
+### Level 2 Tasks
+1. **Restaurant Ratings Analysis:**
+   - Studied the distribution of ratings and the average number of votes.
+   
+2. **Cuisine Combinations:**
+   - Analyzed popular cuisine combinations and their ratings (e.g., North Indian + Chinese).
+   
+3. **Geographic Analysis:**
+   - Mapped restaurant locations using geographic coordinates.
+   
+4. **Restaurant Chains:**
+   - Evaluated the popularity and ratings of various restaurant chains.
+
+---
+
+## Key Insights
+- North Indian cuisine dominates consumer preferences.
+- Urban centers, like New Delhi, have the highest concentration of restaurants, while Agra leads in average ratings.
+- Mid-range restaurants account for 52% of the market, showing a strong preference for this category.
+- Restaurants offering online delivery tend to have higher ratings.
+- Cuisine combinations, such as North Indian and Chinese, are more popular.
+
 ## 📌 Resume content -
 
 <br> Title: Consumer Trends and Preferences in the Restaurant Industry
