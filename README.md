@@ -1,5 +1,5 @@
 # Consumer Trends and Preferences in the Restaurant Industry
-![Project Banner](Consumer-Trends-and-Preferences-in-the-Restaurant-Industry/Banner.jpg)
+![Project Banner](https://github.com/heyamay/Consumer-Trends-and-Preferences-in-the-Restaurant-Industry/blob/main/Banner%20.jpg)
 ## Data Analysis Internship Tasks from Cognifyz Technologies
 
 This is my Internship tasks from Cognifyz Technologies which are in 2 levels containing 4-4 tasks each
