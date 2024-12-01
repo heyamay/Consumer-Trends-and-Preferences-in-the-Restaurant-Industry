@@ -80,7 +80,7 @@ Description:
 <br> Conducted comprehensive data analysis on a restaurant dataset, including identifying top cuisines, analyzing city-specific trends, evaluating price range distributions, assessing online delivery impact, examining restaurant ratings, discovering common cuisine combinations, mapping restaurant locations, and analyzing restaurant chains for popularity and ratings. 
 <br> Used Python libraries like Pandas, Matplotlib, and Seaborn to extract insights and visualize data effectively.
 
-• Analyzed a 1000+ restaurants dataset to identify top cuisines, city-specific trends, and price range distributions.
-• Assessed online delivery impact and examined 500+ ratings, leading to a 15% increase in customer satisfaction.
-• Explored 30+ cuisine combinations, contributing to improved menu performance and customer engagement.
-• Mapped restaurant locations and evaluated 50+ restaurant chains for popularity. Utilized Python libraries such as (Pandas, Matplotlib, Seaborn) for data analysis and visualization.
+- Analyzed a 1000+ restaurants dataset to identify top cuisines, city-specific trends, and price range distributions.
+- Assessed online delivery impact and examined 500+ ratings, leading to a 15% increase in customer satisfaction.
+- Explored 30+ cuisine combinations, contributing to improved menu performance and customer engagement.
+- Mapped restaurant locations and evaluated 50+ restaurant chains for popularity. Utilized Python libraries such as (Pandas, Matplotlib, Seaborn) for data analysis and visualization.
